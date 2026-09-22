@@ -1,0 +1,5 @@
+DISPLAY_NAME=bot de discord
+MAIN=main.py
+MEMORY=512
+VERSION=recommended
+LANGUAGE=python
